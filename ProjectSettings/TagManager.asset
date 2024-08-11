@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerSprite
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Paredes
+  - Suelo
+  - Companion
+  - Personaje
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 1603793347
+    locked: 0
+  - name: Cielo
+    uniqueID: 3191859057
+    locked: 0
+  - name: espacio
+    uniqueID: 1089502223
+    locked: 0
+  - name: Suelo
+    uniqueID: 2686259809
+    locked: 0
+  - name: Casa
+    uniqueID: 1229937959
+    locked: 0
+  - name: Enemigos
+    uniqueID: 564565909
+    locked: 0
+  - name: Paredes
+    uniqueID: 2578044809
+    locked: 0
+  - name: Jugador
+    uniqueID: 2369596711
+    locked: 0
+  - name: Detalles
+    uniqueID: 2394245793
+    locked: 0
+  - name: HUI
+    uniqueID: 1556942999
+    locked: 0
