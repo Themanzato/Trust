@@ -1,30 +1,43 @@
-# 🎮 Trust - Videojuego en desarrollo
+# 🎮 Trust - Videojuego Indie de Plataformas Narrativas
 
-**Trust** es una experiencia narrativa interactiva centrada en las decisiones, la confianza y las consecuencias. Ambientado en un mundo donde las elecciones morales importan, el jugador se enfrenta a dilemas éticos que afectan el destino de los personajes y su entorno.
-
----
-
-## 🧠 Concepto
-
-En **Trust**, tus decisiones construyen o destruyen relaciones. A lo largo del juego, deberás interpretar situaciones, tomar decisiones y lidiar con sus consecuencias. No hay respuestas correctas ni finales absolutos: solo consecuencias derivadas de la confianza (o desconfianza) que generas.
+**Trust** es un videojuego indie de plataformas con narrativa profunda y jefes únicos cada 5 niveles. El protagonista, infectado por una entidad parasitaria llamada **Xenogénesis**, se enfrenta a su propia transformación, el deterioro de su cuerpo y mente, y una amenaza global. En este juego, la historia se entrelaza con la acción, los dilemas morales y una evolución constante de habilidades.
 
 ---
 
-## 🎮 Mecánicas principales
+## 🌌 Historia
 
-- 🌐 **Sistema de decisiones ramificadas:** Cada elección altera la narrativa.
-- 🧩 **Diálogos interactivos:** Basados en el estado emocional y la confianza del personaje.
-- 🧠 **Sistema de confianza dinámico:** Las decisiones afectan cómo otros personajes te perciben.
-- 🕵️ **Exploración narrativa:** Descubre pistas, secretos y detalles que afectan el desarrollo de la historia.
+En un rincón desconocido del cosmos, el **Vacío Xalora**, entidades hechas de energía pura luchan por existir. De este reino emerge **Xenogénesis**, una criatura capaz de absorber almas, manipular el ADN y corromper la vida.
+
+Su llegada a la Tierra ocurre tras colisionar dimensiones, impactando en un bosque remoto mediante un meteorito. Una joven que pasea cerca se infecta sin saberlo. A partir de ahí, inicia un viaje de mutación, lucha interna y revelaciones sobre el verdadero origen de su condición:contentReference[oaicite:3]{index=3}:contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}.
 
 ---
 
-## 📦 Instalación
+## 🧬 Características Principales
 
-> ⚠️ Actualmente en desarrollo. Las siguientes instrucciones son para pruebas locales.
+- 🎭 **Historia no lineal** con decisiones morales que alteran el curso del juego.
+- 🧠 **Desarrollo del personaje** dividido en 4 etapas: curiosidad, infección, lucha interna y aceptación:contentReference[oaicite:6]{index=6}.
+- 🔁 **Sistema de transformación**: el jugador adquiere nuevas formas con habilidades únicas gracias al parásito.
+- ⚔️ **Enemigos únicos y bosses cada 5 niveles**, basados en criaturas corrompidas por Xenogénesis.
+- 🧩 **Fusión de géneros**: acción, exploración, resolución de acertijos y narrativa interactiva.
+- 🕹️ **Diseño de niveles progresivo** con nuevos desafíos, ambientaciones corrompidas y elementos mutantes.
 
-```bash
-git clone https://github.com/tuusuario/trust.git
-cd trust
-npm install
-npm run dev
+---
+
+## 📷 Capturas de Pantalla
+
+![Nivel 1](./assets/screenshots/level1.png)
+![Boss de Nivel 5](./assets/screenshots/boss1.png)
+
+---
+
+## 📅 Progreso del Desarrollo
+
+| Elemento                             | Estado          |
+|--------------------------------------|-----------------|
+| Historia general                     | ✅ Completa     |
+| Desarrollo del protagonista          | ✅ Completa     |
+| Diseño de niveles y bosses           | 🟡 En progreso  |
+| Sistema de transformación            | ✅ Completa     |
+| Banda sonora y ambientación sonora   | 🟡 En progreso  |
+| Implementación jugable (prototipo)   | 🟡 Parcial      |
+
